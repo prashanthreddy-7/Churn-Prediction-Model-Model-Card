@@ -1,0 +1,11 @@
+feature,importance
+num__recency_days,0.26796562612024366
+num__last_visit_days_ago,0.15762996201413723
+num__monetary_180d,0.08573296713462525
+num__frequency_180d,0.051494762526011165
+num__category_diversity_180d,0.046044774162261416
+num__product_views_30d,0.04593641827356443
+num__avg_discount_pct_180d,0.042793099900272774
+num__days_since_signup,0.04245934438901493
+num__sessions_30d,0.036503268222319064
+num__avg_rating_180d,0.021524249873410346

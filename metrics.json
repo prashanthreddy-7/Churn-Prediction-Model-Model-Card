@@ -1,0 +1,19 @@
+{
+"baseline_model": {
+"model_name": "Logistic Regression",
+"accuracy": 0.8214,
+"precision": 0.81,
+"recall": 0.76,
+"f1_score": 0.7832,
+"roc_auc": 0.8827
+},
+"final_model": {
+"model_name": "Random Forest",
+"accuracy": 0.8244,
+"precision": 0.8045,
+"recall": 0.8571,
+"f1_score": 0.8300,
+"roc_auc": 0.8846,
+"decision_threshold": 0.4
+}
+}

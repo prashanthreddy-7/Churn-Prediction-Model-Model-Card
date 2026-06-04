@@ -1,0 +1,11 @@
+customer_id,snapshot_date,city_tier,age_group,acquisition_channel,loyalty_tier,preferred_category,marketing_consent,recency_days,frequency_180d,monetary_180d,return_rate_180d,avg_discount_pct_180d,avg_rating_180d,category_diversity_180d,ticket_count_90d,negative_ticket_rate_90d,avg_resolution_hours_90d,days_since_signup,sessions_30d,product_views_30d,cart_adds_30d,wishlist_adds_30d,abandoned_carts_30d,email_opens_30d,campaign_clicks_30d,last_visit_days_ago,churn_next_60d,split,predicted,probability
+CUST00044,2025-09-30,Tier 2,35-44,Google Search,,Baby Care,Yes,72,1,899.51,0.0,0.29,4.0,1,0,0.0,0.0,476,6,27,2,1,1,4,2,10,0,test,1,0.4712713507399242
+CUST00109,2025-09-30,Tier 1,25-34,Instagram,Silver,Skin Care,Yes,92,2,1622.28,0.0,0.255,4.5,2,0,0.0,0.0,492,1,4,0,0,0,3,1,16,0,test,1,0.5656465138123931
+CUST00335,2025-09-30,Tier 2,45+,Instagram,,Skin Care,Yes,148,2,1328.14,0.0,0.38,3.5,1,0,0.0,0.0,517,7,40,1,1,0,3,1,22,0,test,1,0.6543939100097701
+CUST00437,2025-09-30,Tier 2,35-44,Marketplace,Silver,Baby Care,Yes,151,1,729.22,0.0,0.25,4.0,1,0,0.0,0.0,216,0,0,0,0,0,0,0,33,0,test,1,0.8803309723476244
+CUST00491,2025-09-30,Tier 1,25-34,Organic,Silver,Makeup,Yes,97,1,540.89,1.0,0.24,4.0,1,1,0.0,31.8,182,10,40,3,2,1,5,1,20,0,test,1,0.5827221318116961
+CUST00184,2025-09-30,Tier 1,18-24,Instagram,Platinum,Wellness,No,14,3,2456.91,0.0,0.287,3.33,2,0,0.0,0.0,564,6,18,1,1,0,0,0,6,1,test,0,0.0858048160738627
+CUST00247,2025-09-30,Tier 2,25-34,Marketplace,,Hair Care,Yes,57,2,937.32,0.0,0.5,3.0,1,0,0.0,0.0,470,5,13,1,0,1,5,2,14,1,test,0,0.34356542765796616
+CUST00414,2025-09-30,Tier 2,25-34,Marketplace,,Baby Care,Yes,3,1,311.44,1.0,0.32,4.0,1,1,1.0,28.0,33,5,30,3,1,2,6,1,0,1,test,0,0.37972232481960505
+CUST00438,2025-09-30,Tier 1,25-34,Marketplace,Platinum,Baby Care,Yes,64,3,2466.39,1.0,0.16,3.0,3,2,1.0,36.05,175,6,22,1,1,1,7,2,22,1,test,0,0.31700444889388474
+CUST00531,2025-09-30,Tier 2,25-34,Instagram,,Hair Care,Yes,43,2,648.41,0.0,0.48,3.5,2,1,0.0,22.5,129,1,4,0,0,0,2,0,19,1,test,0,0.36508826451783805
