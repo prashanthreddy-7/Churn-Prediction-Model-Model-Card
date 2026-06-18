@@ -89,10 +89,7 @@ part3-churn-model/
 │── model_card.md
 │── data/
 │   └── rfm_modeling_snapshot.csv
-│── outputs/
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   └── feature_importance.png
+
 ```
 
 ---
